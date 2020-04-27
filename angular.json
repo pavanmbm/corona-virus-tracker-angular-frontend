@@ -24,9 +24,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css","src/vendor/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["src/vendor/jquery/dist/jquery.min.js","src/vendor/bootstrap/dist/js/bootstrap.min.js" ]
           },
           "configurations": {
             "production": {
